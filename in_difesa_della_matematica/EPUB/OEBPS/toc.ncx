@@ -8,7 +8,7 @@
     <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>Titolo</text>
+    <text>In difesa della matematica</text>
   </docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
@@ -37,7 +37,7 @@
     </navPoint>
     <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
-        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+        <text>IN DIFESA DELLA MATEMATICA</text>
       </navLabel>
       <content src="Text/Section0005.xhtml"/>
     </navPoint>
