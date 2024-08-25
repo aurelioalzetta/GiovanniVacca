@@ -105,6 +105,8 @@ display : none;
 visibility : hidden;
 }
 .testo_laterale {
+/*Aggiunta per il posizionamento di una citazione a sinistra 25-08-2024 Luca*/
+padding-left : 50%;
 float : right;
 }
 .testo_laterale + div, ol, p, table, ul {
@@ -149,6 +151,13 @@ text-align : left;
 }
 .testo_tondo {
 font-style : normal;
+}
+/*Aggiunta per la resa della firma dell'articolo in maiuscoletto 25-08-2024 Luca*/
+p#firma{
+font-variant : small-caps;
+}
+p#nota_1{
+font-size : 0.8em;
 }
 
 /* Stili Liber Liber 2016-08-22 - stili specifici INIZIO */
